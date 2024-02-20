@@ -7,8 +7,6 @@ set(SRC
         Cache/Cache.cpp
         Daemon/Daemon.h
         Daemon/Daemon.cpp
-
-
 )
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${INSTALL_DIR}/Components)
